@@ -18,4 +18,4 @@ docker run \
         --name=webpack \
         -e NODE_ENV=$NODE_ENV \
         --entrypoint=/react/entrypoints/webpack.sh \
-        -t quay.io/conversica/ai-react-build
+        -t 

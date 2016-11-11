@@ -19,4 +19,4 @@ docker run \
     -e NODE_ENV=$NODE_ENV \
     --publish 3000:3000 \
     --entrypoint=/react/entrypoints/server.sh \
-    -t quay.io/conversica/ai-react-build
+    -t 

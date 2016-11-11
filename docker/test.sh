@@ -10,4 +10,4 @@ docker run \
     --rm \
     -e NODE_ENV=$NODE_ENV \
     --entrypoint=/react/entrypoints/test.sh \
-    -t quay.io/conversica/ai-react-build
+    -t 
